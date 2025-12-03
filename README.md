@@ -65,6 +65,7 @@ Le script MySQL final inclut :
 ## ▶️ Démonstration
 
 Une démonstration de la **génération du script SQL depuis PowerDesigner** est présentée dans le guide du projet.
+
 ![http://url/to/img.gif](https://github.com/AlexAlkhatib/company_database_modeling/blob/main/Demo.gif)
 
 
