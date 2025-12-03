@@ -16,7 +16,7 @@ Company-Database-Modeling/
 │
 ├── company_database_model.mpd     → Modèle PowerDesigner (PDM MySQL)
 ├── company_database.sql       → Script SQL généré (DDL complet)
-├── ERD_Diagram.png            → Diagramme ER exporté (si ajouté)
+├── ERD_Diagram.png            → Diagramme ER exporté
 └── README.md
 ```
 
